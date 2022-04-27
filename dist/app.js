@@ -1,5 +1,5 @@
-import { bulidCard } from "./bulid-card.js";
-import { menu } from "./data.js";
+import { bulidCard } from "/bulid-card.js";
+import { menu } from "/data.js";
 const main = document.querySelector("main");
 const buttons = document.querySelectorAll("button");
 function createCarts(category) {
