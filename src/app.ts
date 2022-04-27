@@ -1,5 +1,5 @@
-import { bulidCard } from "/src/bulid-card.js"
-import { menu } from "/src/data.js"
+import { bulidCard } from "/bulid-card.js"
+import { menu } from "/data.js"
 const main = document.querySelector("main") as HTMLElement
 const buttons = document.querySelectorAll("button") as NodeListOf<HTMLButtonElement>
 
